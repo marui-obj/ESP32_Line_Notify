@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "arduino.h": "c",
+        "lm73.h": "c",
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "string": "cpp",
+        "random": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "limits": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp"
+    }
+}
